@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 《Blender》
 使用正交相机 + 合成像素化即可。
 
@@ -10,4 +11,18 @@
 5、确定输出的路径，和输出格式。
 6、设置Recorder中的Capture Source为Targeted Camera，Camera设置为TaggedCamera，Tag为自定义的Tag。
 7、设置Redording Mode后，点击Start Recording即可。
+=======
+《Blender》
+使用正交相机 + 合成像素化即可。
+
+《Unity》
+使用Recorder插件+像素化着色器。
+1、在Package Manager中，下载Recorder插件。
+2、对渲染摄像机打上自定义的Tag。
+3、设置渲染摄像机的Solid Color。
+4、按F10打开Recorder，添加Recorder为Image。
+5、确定输出的路径，和输出格式。
+6、设置Recorder中的Capture Source为Targeted Camera，Camera设置为TaggedCamera，Tag为自定义的Tag。
+7、设置Redording Mode后，点击Start Recording即可。
+>>>>>>> 4b00f6ea967d11903ad6115e009d389da9ec91b6
 8、对于需要像素化的，自行添加后处理脚本即可。
