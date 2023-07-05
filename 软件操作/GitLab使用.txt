@@ -1,0 +1,6 @@
+《克隆项目到本地》
+1、右键桌面空白——Git Clone...——在URL中输入项目的HTTPS地址，选择目标文件夹，在Branch中输入相应的分支名，点击OK。
+2、输入账号以及Token即可。
+
+《Token获取》
+1、GitLab头像——Edit Profile——Access Tokens——随便输入Token Name，选择api，点击Create即可。
